@@ -11,13 +11,16 @@ Programa desenvolvido para atividade da disciplina de Arquitetura de Computadore
 ##### Como Executar o Projeto
 
 1. Clone o repositório:
-
+```bash
 git clone https://github.com/lucastcor/numeros-perfeitos-multiprocess.git
 cd numeros-perfeitos-multiprocess
-
+```
 2. Instale as dependencias:
+```bash
 pip install -r requirements.txt
-
+```
 3. Execute o app:
+```bash
 streamlit run num_pft.py
+```
 

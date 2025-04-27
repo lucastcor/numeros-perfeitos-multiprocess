@@ -8,6 +8,12 @@ Programa desenvolvido para atividade da disciplina de Arquitetura de Computadore
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 
+## 🔗 Acessar o App Online
+
+Clique aqui para acessar o aplicativo:
+
+[👉 Acessar o App no Streamlit Cloud](https://numeros-perfeitos-multiprocess-ch6nlkbcqvreqyjyjxa6ze.streamlit.app/)
+
 ##### Como Executar o Projeto
 
 1. Clone o repositório:

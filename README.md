@@ -15,7 +15,7 @@ Programa desenvolvido para atividade da disciplina de Arquitetura de Computadore
 git clone https://github.com/lucastcor/numeros-perfeitos-multiprocess.git
 cd numeros-perfeitos-multiprocess
 ```
-2. Instale as dependencias:
+2. Instale as dependências:
 ```bash
 pip install -r requirements.txt
 ```

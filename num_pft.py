@@ -9,6 +9,8 @@ from math import sqrt
 def num_pft(start, end, listnum):
     for i in range(start, end):
         sum = 1
+        if i==1:
+            continue
         for j in range(2, int(sqrt(i)+1)):
             if i % j == 0:
                 sum += j
